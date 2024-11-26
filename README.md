@@ -1,7 +1,7 @@
 # ShoppingMall-Toy Project
 
 ## 🖥 프로젝트 소개
-React, Firebase, GraphQL을 이용하여 구성한 쇼핑몰 사이트입니다. 쇼핑몰 사이트의 구조를 참고하여 개발했습니다.
+React를 이용하여 구성한 쇼핑몰 사이트입니다. 쇼핑몰 사이트의 구조를 참고하여 개발했습니다.
 
 ## 📆 개발 기간
 2022.10.07 - 현재 (미정)
@@ -9,7 +9,7 @@ React, Firebase, GraphQL을 이용하여 구성한 쇼핑몰 사이트입니다.
 ## ⚙ 개발 환경
 - **TypeScript**
 - **Framework**: React
-- **Database**: Firebase
+- 
 
 ## ESLint 설정
 이 템플릿은 Vite에서 React를 사용하여 HMR 및 ESLint 규칙을 설정하는 최소한의 구성을 제공합니다.
