@@ -1,9 +1,5 @@
-const IndexPage = () => {
-    return (
-    <div>
-        src/pages/index.tsx 페이지입니다.
-    </div>
-    )
-  } 
-  
-  export default IndexPage;
+const MainPage = () => {
+  return <div>메인페이지</div>;
+};
+
+export default MainPage;
